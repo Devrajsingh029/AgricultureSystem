@@ -24,7 +24,7 @@ A PHP-based web portal for an agriculture marketplace where farmers and buyers c
 git clone <repository_url>
 ```
 2. Place the folder inside your web server directory (e.g., `htdocs` for XAMPP).
-3. Import the provided MySQL database (if included).
+3. Import the provided MySQL database.
 4. Start Apache and MySQL in XAMPP.
 5. Open your browser and go to:
 ```

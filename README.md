@@ -15,7 +15,6 @@ A PHP-based web portal for an agriculture marketplace where farmers and buyers c
 - PHP (Backend)
 - MySQL (Database)
 - HTML, CSS, Bootstrap (Frontend)
-- Font Awesome (Icons)
 - JavaScript & jQuery
 
 ## How to Run Locally
